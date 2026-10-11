@@ -1,0 +1,32 @@
+manifestVersion: 1
+id: skibidi-steel-browser
+storage:
+  dataRoot: data
+backupIgnore:
+  - data/chrome/Default/Cache/*
+  - data/chrome/Default/Code Cache/*
+  - data/chrome/Default/GPUCache/*
+category: developer
+name: Steel Browser
+version: "0.5.4-beta"
+tagline: Open-source browser API for automation and AI agents
+icon: https://raw.githubusercontent.com/steel-dev/steel-browser/main/ui/public/icon.png
+description: >-
+  Skibidi
+releaseNotes: ""
+
+developer: Steel
+website: https://steel.dev
+dependencies: []
+repo: https://github.com/steel-dev/steel-browser
+support: https://github.com/steel-dev/steel-browser/issues
+
+port: 3682
+gallery: []
+path: "/ui"
+
+defaultUsername: ""
+defaultPassword: ""
+
+submitter: maxicode
+submission: https://github.com/steel-dev/steel-browser
